@@ -1,14 +1,12 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# 01 Professional Portfolio
 
 ## Description
 
 The goal of this assignment was to build a portfolio page I can add to as the course progresses. In addition to building this online portfolio, I will be applying the core skills I've recently learned which are flexbox, media queries, and CSS variables.
 
-https://ebonygrrl.github.io/02-professional-portfolio/
-
 ## Installation
 
-N/A
+Click here: https://ebonygrrl.github.io/02-professional-portfolio/
 
 ## Usage
 
