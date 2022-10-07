@@ -10,9 +10,7 @@ Click here: https://ebonygrrl.github.io/02-professional-portfolio/
 
 ## Usage
 
-To use this application, you can click on one of the links in the navigation to jump to a particular section or scroll to bottom. There is also a button when clicked that will jump to the top of the application.
-
-The following image shows the web application's previous appearance and functionality:
+To use this application, you can click on one of the links in the navigation to jump to a particular section or scroll to bottom.
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./professional-portfolio-screenshot.jpg)
 
